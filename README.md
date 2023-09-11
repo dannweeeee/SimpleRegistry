@@ -1,5 +1,5 @@
 # Simple Registry
-Project #1 for Arcane x CertiK Developer Workshop <br>
+Project #1 for Arcane x CertiK Developer Workshop https://calnix.gitbook.io/eth-dev/ <br>
 Problem Statement: [https://github.com/yieldprotocol/mentorship2022/issues/3](https://github.com/yieldprotocol/mentorship2022/issues/1)
 
 ## Build a Simple Registry
