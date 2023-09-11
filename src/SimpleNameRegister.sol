@@ -2,9 +2,8 @@
 pragma solidity ^0.8.13;
 
 contract SimpleNameRegister {
-
     //Map an address to a name to identify current holder
-    mapping (string => address) public holder;
+    mapping(string => address) public holder;
 
     //Emit event when a name is registered (transaction is written into the blockchain)
     event Register(address indexed holder, string name);
